@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://images.pexels.com/photos/1056528/pexels-photo-1056528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+    background-attachment: fixed;
+    overflow-x: hidden;
+    color: rgb(240, 248, 255)
+};
+
+
+nav {
+    background-color: #529ACA;
+}
+
+#searchBtn{
+    background-color: #529ACA;
+    color: white;
+}
+
+.table-head{
+    background-color: #529ACA;
+    color: white;
+}
+
+footer{
+    background-color: rgba(255, 255, 255, 0.796);
+    .strip-footer{
+        background-color: #529ACA;   
+    }
+}
